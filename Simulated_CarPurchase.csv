@@ -1,0 +1,1001 @@
+Budget,Age,Gender,FuelEfficiency,Preferred,Buy
+49523,36,Female,Yes,SUV,Other Car
+35936,34,Male,Yes,Sedan,Other Car
+18698,42,Female,Yes,Sedan,Other Car
+55384,36,Female,Yes,SUV,Other Car
+43709,36,Male,Yes,SUV,Other Car
+43976,39,Female,Yes,SUV,Other Car
+43630,33,Female,Yes,Coupe,Other Car
+86386,44,Male,Yes,SUV,Other Car
+32568,32,Male,Yes,Coupe,Other Car
+30954,33,Male,No,SUV,Other Car
+72879,40,Male,Yes,SUV,Other Car
+28074,53,Male,Yes,Sedan,Other Car
+61630,23,Male,Yes,Coupe,Other Car
+49537,29,Male,Yes,SUV,Other Car
+48241,38,Female,Yes,Sedan,Other Car
+50399,39,Male,Yes,Sports,Other Car
+71102,39,Female,Yes,Sedan,Other Car
+36425,46,Female,No,SUV,Other Car
+11152,38,Female,Yes,Sedan,Other Car
+52828,28,Female,Yes,SUV,Other Car
+59694,49,Female,Yes,Sedan,Other Car
+20602,51,Male,Yes,Sports,Other Car
+70945,42,Female,Yes,Sedan,Other Car
+35117,43,Female,Yes,Hatchback,Other Car
+27344,36,Male,Yes,Sedan,Other Car
+43904,50,Female,No,SUV,Other Car
+40374,43,Female,Yes,SUV,Other Car
+10386,49,Male,No,Sedan,Other Car
+63959,41,Female,Yes,SUV,Other Car
+24079,55,Male,Yes,Coupe,Other Car
+41336,42,Male,Yes,SUV,Other Car
+53576,38,Male,No,Hatchback,Other Car
+44479,39,Female,Yes,Sedan,Other Car
+43017,35,Female,No,Sedan,Other Car
+38533,44,Male,Yes,SUV,Other Car
+-4261,43,Male,Yes,SUV,Other Car
+3820,45,Female,Yes,Sedan,Other Car
+26215,36,Female,Yes,SUV,Other Car
+51176,32,Female,Yes,SUV,Other Car
+41032,51,Female,Yes,SUV,Other Car
+47722,43,Male,Yes,Sedan,Other Car
+53233,32,Female,No,SUV,Other Car
+10800,34,Male,Yes,SUV,Other Car
+50004,36,Female,Yes,SUV,Other Car
+10693,27,Female,Yes,Sedan,Other Car
+48942,31,Female,Yes,Sports,Other Car
+76290,40,Male,No,Sedan,Other Car
+79100,29,Female,No,Hatchback,Other Car
+50410,41,Male,Yes,SUV,Other Car
+64556,50,Male,Yes,Sedan,Other Car
+71689,23,Male,Yes,SUV,Other Car
+65720,31,Female,No,Sports,Other Car
+60148,33,Female,Yes,SUV,Other Car
+29826,41,Female,No,Sedan,Other Car
+-6675,33,Male,Yes,Sedan,Other Car
+1020,29,Male,Yes,SUV,Other Car
+-6742,42,Female,Yes,SUV,Other Car
+46233,26,Female,Yes,Sedan,Other Car
+27627,43,Male,Yes,SUV,Other Car
+26384,46,Male,Yes,Sedan,Other Car
+41602,26,Female,Yes,SUV,Other Car
+56897,43,Male,No,SUV,Other Car
+52267,37,Female,No,Hatchback,Other Car
+48472,42,Female,Yes,Sedan,Other Car
+27851,44,Male,Yes,Sedan,Other Car
+15239,37,Male,No,Sedan,Other Car
+41367,28,Male,Yes,Coupe,Other Car
+52511,35,Male,Yes,SUV,Other Car
+60281,32,Female,Yes,Sports,Other Car
+52471,36,Male,Yes,Sedan,Other Car
+28241,24,Female,Yes,SUV,Other Car
+18108,38,Male,No,Sports,Other Car
+32048,30,Female,No,SUV,Other Car
+60237,35,Male,Yes,Coupe,Other Car
+44117,41,Male,Yes,SUV,Other Car
+28249,30,Male,Yes,SUV,Other Car
+28914,45,Female,Yes,SUV,Other Car
+72976,42,Male,Yes,Sedan,Other Car
+28164,44,Female,Yes,SUV,Other Car
+12515,40,Male,No,SUV,Other Car
+39901,30,Female,No,Sports,Other Car
+21823,29,Female,No,Sedan,Other Car
+34957,39,Female,Yes,Sedan,Other Car
+14714,44,Female,Yes,SUV,Other Car
+92694,33,Female,No,Sports,Other Car
+60039,40,Male,Yes,SUV,Other Car
+62487,46,Male,Yes,Sedan,Other Car
+38623,41,Female,Yes,Sedan,Other Car
+40454,47,Male,Yes,SUV,Other Car
+21519,24,Female,Yes,SUV,Other Car
+3983,21,Male,Yes,Sedan,Other Car
+31357,31,Male,Yes,SUV,Other Car
+32085,35,Female,Yes,Sedan,Other Car
+66457,55,Male,Yes,Sedan,Other Car
+14932,33,Male,Yes,Coupe,Other Car
+2717,29,Male,Yes,Sedan,Other Car
+51343,44,Male,Yes,SUV,Other Car
+62320,43,Female,Yes,SUV,Other Car
+13876,26,Female,No,Sedan,Other Car
+26399,21,Male,Yes,Sedan,Other Car
+52245,26,Male,No,Sports,Other Car
+39422,39,Male,Yes,SUV,Other Car
+27146,35,Male,Yes,Sedan,Other Car
+56800,37,Male,Yes,Coupe,Other Car
+26919,46,Female,Yes,SUV,Other Car
+71816,34,Female,Yes,SUV,Other Car
+28059,38,Male,Yes,Coupe,Other Car
+40185,44,Female,No,Sports,Other Car
+32784,40,Female,Yes,Sports,Other Car
+41784,43,Male,Yes,Sports,Other Car
+32269,26,Female,Yes,Coupe,Other Car
+18936,27,Female,Yes,Sedan,Other Car
+31192,40,Male,Yes,Sedan,Other Car
+48899,32,Male,Yes,Sports,Other Car
+86833,27,Male,Yes,Sedan,Other Car
+37955,38,Female,Yes,SUV,Other Car
+1009,37,Male,Yes,Sedan,Other Car
+12779,38,Male,Yes,Coupe,Other Car
+30402,26,Male,No,Coupe,Other Car
+46970,40,Male,Yes,Hatchback,Other Car
+79253,30,Female,Yes,Coupe,Other Car
+26313,30,Male,No,SUV,Other Car
+51274,41,Female,Yes,SUV,Other Car
+46685,24,Male,Yes,Coupe,Other Car
+5885,29,Male,Yes,Coupe,Other Car
+15181,24,Male,Yes,Sedan,Other Car
+46342,24,Male,Yes,Coupe,Other Car
+45007,34,Male,Yes,Sedan,Other Car
+51279,44,Male,Yes,Sedan,Other Car
+46133,34,Male,Yes,Coupe,Other Car
+76257,29,Male,Yes,SUV,Other Car
+26242,43,Male,Yes,SUV,Other Car
+17251,40,Male,Yes,Coupe,Other Car
+30314,33,Female,Yes,Sedan,Other Car
+103681,31,Female,Yes,SUV,Other Car
+38853,26,Male,Yes,Sedan,Other Car
+84896,38,Female,Yes,SUV,Other Car
+30640,28,Female,Yes,Sedan,Other Car
+16757,45,Male,Yes,Sedan,Other Car
+30704,41,Female,Yes,SUV,Other Car
+30072,43,Male,Yes,SUV,Other Car
+27643,28,Female,Yes,SUV,Other Car
+64064,28,Female,Yes,Coupe,Other Car
+66585,36,Female,Yes,SUV,Other Car
+46356,52,Male,Yes,Coupe,Other Car
+56130,52,Male,Yes,Sedan,Other Car
+25331,44,Male,Yes,Coupe,Other Car
+25764,25,Female,No,Coupe,Other Car
+54368,47,Female,Yes,SUV,Other Car
+42396,34,Female,No,Sedan,Other Car
+26042,51,Male,Yes,Coupe,Other Car
+32856,43,Male,Yes,SUV,Other Car
+28616,31,Female,Yes,SUV,Other Car
+29198,35,Female,Yes,Sedan,Other Car
+19782,31,Male,Yes,Coupe,Other Car
+31432,30,Male,Yes,SUV,Other Car
+36573,33,Male,Yes,Sedan,Other Car
+46030,38,Male,Yes,Sedan,Other Car
+58441,35,Male,Yes,SUV,Other Car
+50806,42,Female,Yes,Sedan,Other Car
+17291,29,Female,Yes,Coupe,Other Car
+60378,44,Male,No,Sports,Other Car
+47547,33,Male,Yes,Sedan,Other Car
+4535,45,Female,Yes,Coupe,Other Car
+62767,35,Male,Yes,Coupe,Other Car
+43918,25,Male,Yes,Coupe,Other Car
+59048,55,Female,Yes,Sedan,Other Car
+44445,26,Female,Yes,SUV,Other Car
+40986,41,Female,Yes,Sports,Other Car
+31641,38,Male,Yes,SUV,Other Car
+37054,34,Male,Yes,Sedan,Other Car
+66837,36,Female,No,Coupe,Other Car
+87203,46,Female,Yes,SUV,Other Car
+8014,34,Male,Yes,SUV,Other Car
+69335,38,Female,Yes,Sedan,Other Car
+29279,39,Male,Yes,Sedan,Other Car
+67920,39,Male,Yes,Coupe,Other Car
+48396,34,Male,Yes,Coupe,Other Car
+80194,31,Female,Yes,Sedan,Other Car
+39479,46,Female,Yes,SUV,Other Car
+29032,40,Female,Yes,Sedan,Other Car
+44671,42,Female,Yes,Coupe,Other Car
+55018,51,Female,Yes,Hatchback,Other Car
+26218,43,Female,Yes,SUV,Other Car
+61712,33,Male,No,Sedan,Other Car
+41286,45,Female,Yes,Sedan,Other Car
+64773,32,Male,Yes,Sedan,Other Car
+49283,33,Female,Yes,Coupe,Other Car
+48847,35,Male,Yes,Sports,Other Car
+49550,28,Female,Yes,Coupe,Other Car
+25872,37,Female,Yes,Sedan,Other Car
+52599,39,Female,Yes,SUV,Other Car
+59679,35,Female,Yes,Sedan,Other Car
+33609,42,Female,Yes,SUV,Other Car
+60039,37,Male,Yes,SUV,Other Car
+35935,33,Female,No,Sedan,Other Car
+89847,40,Male,Yes,Sedan,Other Car
+101570,55,Male,Yes,Hatchback,Other Car
+36691,45,Male,Yes,Sedan,Other Car
+34569,23,Male,Yes,Coupe,Other Car
+43306,41,Male,Yes,Coupe,Other Car
+67231,34,Male,Yes,Coupe,Other Car
+99529,36,Female,Yes,Sedan,Other Car
+64023,33,Male,Yes,Sports,Other Car
+43141,35,Female,Yes,Sedan,Other Car
+12170,56,Male,Yes,SUV,Other Car
+31307,27,Male,Yes,SUV,Other Car
+45577,41,Female,Yes,Coupe,Other Car
+67267,28,Male,Yes,SUV,Other Car
+35285,46,Female,Yes,Sedan,Other Car
+35813,37,Male,Yes,Sports,Other Car
+54948,27,Female,Yes,Sedan,Other Car
+16689,41,Female,No,SUV,Other Car
+30845,34,Female,Yes,Coupe,Other Car
+18241,27,Male,Yes,Coupe,Other Car
+14390,12,Male,No,SUV,Other Car
+10726,48,Male,Yes,SUV,Other Car
+56144,49,Male,Yes,Sedan,Other Car
+31514,42,Female,Yes,Sedan,Other Car
+20121,35,Male,Yes,Hatchback,Other Car
+62746,41,Female,Yes,SUV,Other Car
+19817,18,Female,Yes,Sedan,Other Car
+34107,37,Male,Yes,Sedan,Other Car
+56752,44,Male,No,Sedan,Other Car
+65718,45,Male,Yes,Hatchback,Other Car
+39321,29,Male,Yes,Sports,Other Car
+35482,43,Male,Yes,SUV,Other Car
+43987,43,Male,No,SUV,Other Car
+32013,35,Male,Yes,Coupe,Other Car
+71515,56,Female,Yes,Sedan,Other Car
+-6917,33,Male,Yes,SUV,Other Car
+42493,32,Male,Yes,Hatchback,Other Car
+45771,45,Male,Yes,Sedan,Other Car
+73059,30,Female,Yes,Sedan,Other Car
+78516,48,Male,Yes,Sedan,Other Car
+44260,38,Female,Yes,Sedan,Other Car
+74440,27,Female,Yes,Sedan,Other Car
+25727,45,Male,Yes,Coupe,Other Car
+17733,41,Female,Yes,SUV,Other Car
+48666,42,Male,Yes,SUV,Other Car
+24346,41,Female,Yes,SUV,Other Car
+16410,34,Male,Yes,SUV,Other Car
+62828,43,Male,No,Coupe,Other Car
+72212,30,Female,Yes,SUV,Other Car
+44662,33,Male,Yes,Coupe,Other Car
+19553,31,Female,Yes,Coupe,Other Car
+43837,22,Male,No,SUV,Other Car
+62571,26,Male,Yes,Sedan,Other Car
+50428,27,Male,No,Sedan,Other Car
+54576,59,Female,Yes,Coupe,Other Car
+52483,34,Female,Yes,Sedan,Other Car
+38949,35,Male,Yes,Sports,Other Car
+42424,32,Female,Yes,SUV,Other Car
+45355,39,Female,Yes,Sedan,Other Car
+44246,41,Male,Yes,SUV,Other Car
+19153,29,Female,Yes,SUV,Other Car
+47223,35,Female,Yes,Coupe,Other Car
+31013,18,Female,Yes,Sedan,Other Car
+15422,40,Female,No,SUV,Other Car
+65256,41,Female,No,Coupe,Other Car
+70411,32,Male,Yes,Sedan,Other Car
+50020,31,Female,Yes,SUV,Other Car
+-2882,32,Female,Yes,SUV,Other Car
+54391,37,Male,Yes,SUV,Other Car
+37847,44,Female,Yes,SUV,Other Car
+79145,28,Male,Yes,Coupe,Other Car
+34906,41,Female,Yes,Sedan,Other Car
+33109,31,Male,Yes,Sedan,Other Car
+71720,51,Male,Yes,Sports,Other Car
+38244,40,Female,Yes,SUV,Other Car
+43822,38,Female,Yes,Sedan,Other Car
+33342,47,Male,Yes,Sedan,Other Car
+27422,41,Male,No,Sedan,Other Car
+86694,33,Female,Yes,Sedan,Other Car
+19879,42,Female,Yes,SUV,Other Car
+14073,32,Male,Yes,SUV,Other Car
+64639,43,Male,No,SUV,Other Car
+54869,33,Male,Yes,SUV,Other Car
+33280,25,Female,Yes,Hatchback,Other Car
+31260,35,Male,Yes,Sedan,Other Car
+47196,36,Female,Yes,Sedan,Other Car
+24123,35,Male,Yes,SUV,Other Car
+73224,26,Female,No,SUV,Other Car
+60237,24,Male,Yes,SUV,Other Car
+71854,28,Female,Yes,SUV,Other Car
+49490,37,Female,Yes,Sedan,Other Car
+54352,26,Female,Yes,Coupe,Other Car
+29910,34,Male,Yes,Coupe,Other Car
+40386,45,Female,Yes,Sports,Other Car
+57889,38,Female,Yes,Sedan,Other Car
+45113,42,Female,Yes,Sedan,Other Car
+59339,23,Male,Yes,SUV,Other Car
+28248,33,Female,Yes,SUV,Other Car
+57388,52,Male,Yes,Sedan,Other Car
+57845,42,Female,Yes,SUV,Other Car
+17163,36,Male,Yes,Sedan,Other Car
+66888,41,Male,Yes,Sedan,Other Car
+66883,22,Male,Yes,Sedan,Other Car
+105587,38,Male,Yes,SUV,Other Car
+503,37,Female,Yes,SUV,Other Car
+34427,48,Male,Yes,Sedan,Other Car
+63335,41,Female,Yes,SUV,Other Car
+81947,29,Female,Yes,Sedan,Other Car
+50553,24,Male,Yes,Coupe,Other Car
+22567,43,Female,Yes,SUV,Other Car
+36154,32,Male,No,Sedan,Other Car
+31190,40,Male,Yes,Sedan,Other Car
+80004,30,Male,Yes,Sedan,Other Car
+74518,36,Female,Yes,Coupe,Other Car
+9021,39,Female,Yes,SUV,Other Car
+58367,50,Female,Yes,Coupe,Other Car
+57753,33,Female,Yes,SUV,Other Car
+47987,43,Female,Yes,Sedan,Other Car
+44817,37,Female,Yes,SUV,Other Car
+53768,26,Female,Yes,Coupe,Other Car
+53206,48,Female,Yes,SUV,Other Car
+47180,32,Male,Yes,Sedan,Other Car
+43141,35,Male,Yes,Sports,Other Car
+46878,28,Male,Yes,Coupe,Other Car
+12899,40,Female,Yes,Sedan,Other Car
+50649,45,Female,No,Sedan,Other Car
+22829,45,Female,Yes,Sedan,Other Car
+58664,36,Female,Yes,SUV,Other Car
+34227,44,Male,Yes,Sports,Other Car
+30416,33,Male,Yes,Hatchback,Other Car
+38677,32,Male,Yes,Sedan,Other Car
+29149,45,Female,Yes,Sedan,Other Car
+64794,46,Female,Yes,Coupe,Other Car
+54147,41,Female,Yes,Sedan,Other Car
+24631,46,Female,Yes,Sports,Other Car
+65060,40,Male,Yes,Sedan,Other Car
+51049,38,Female,No,SUV,Other Car
+22795,25,Male,Yes,Coupe,Other Car
+59687,50,Male,No,Coupe,Other Car
+41074,39,Male,Yes,SUV,Other Car
+14787,39,Female,Yes,SUV,Other Car
+59866,25,Male,Yes,Sedan,Other Car
+66924,43,Female,Yes,Sedan,Other Car
+49281,28,Female,Yes,Sedan,Other Car
+5623,27,Female,Yes,Sedan,Other Car
+28303,29,Male,No,SUV,Other Car
+52198,28,Male,Yes,Sedan,Other Car
+42088,31,Male,Yes,Sedan,Other Car
+42138,30,Male,Yes,Sedan,Other Car
+69512,34,Male,No,Sedan,Other Car
+35200,34,Female,Yes,SUV,Other Car
+42033,31,Female,Yes,SUV,Other Car
+68551,31,Female,Yes,SUV,Other Car
+73038,45,Male,Yes,SUV,Other Car
+27666,39,Female,Yes,SUV,Other Car
+41456,24,Female,Yes,SUV,Other Car
+41765,39,Female,Yes,SUV,Other Car
+54261,38,Male,Yes,SUV,Other Car
+36577,27,Female,No,SUV,Other Car
+52000,42,Male,Yes,Hatchback,Other Car
+45915,44,Male,Yes,SUV,Other Car
+42527,37,Male,Yes,Sports,Other Car
+32404,56,Female,Yes,Sedan,Other Car
+43149,36,Female,Yes,Sedan,Other Car
+44884,40,Female,No,Sedan,Other Car
+23501,32,Female,Yes,SUV,Other Car
+38057,44,Male,Yes,Sedan,Other Car
+32633,30,Male,Yes,Sedan,Other Car
+48345,40,Male,Yes,Hatchback,Other Car
+25580,27,Female,Yes,Sedan,Other Car
+36573,9,Female,Yes,Sedan,Other Car
+72069,20,Male,Yes,Sedan,Other Car
+44400,40,Male,Yes,Sedan,Other Car
+17699,35,Female,Yes,Sports,Other Car
+-5774,46,Female,Yes,Sedan,Other Car
+55530,35,Female,Yes,Sedan,Other Car
+57847,34,Female,No,SUV,Other Car
+27047,29,Male,Yes,SUV,Other Car
+-2807,41,Male,Yes,SUV,Other Car
+45848,38,Male,Yes,Sedan,Other Car
+33877,32,Male,Yes,Sports,Other Car
+37065,43,Male,Yes,Sedan,Other Car
+60786,29,Female,Yes,Sports,Other Car
+36298,36,Female,Yes,SUV,Other Car
+71509,44,Female,Yes,Sedan,Other Car
+50796,50,Male,Yes,SUV,Other Car
+34900,42,Male,Yes,Sedan,Other Car
+49002,41,Male,Yes,SUV,Other Car
+56855,39,Female,Yes,Sedan,Other Car
+31958,22,Female,Yes,SUV,Other Car
+62667,39,Male,Yes,Sedan,Other Car
+21469,24,Male,Yes,Sedan,Other Car
+22591,7,Male,No,SUV,Other Car
+19993,44,Female,Yes,SUV,Other Car
+24171,37,Male,Yes,SUV,Other Car
+36025,38,Male,No,SUV,Other Car
+41480,41,Male,Yes,Coupe,Other Car
+48316,50,Female,Yes,Sedan,Other Car
+60434,39,Male,Yes,Sedan,Other Car
+42887,34,Male,Yes,Coupe,Other Car
+29674,36,Male,Yes,SUV,Other Car
+50758,28,Male,Yes,Sedan,Other Car
+45835,22,Female,Yes,Sedan,Other Car
+67799,33,Male,Yes,SUV,Other Car
+71843,30,Female,Yes,SUV,Other Car
+49001,37,Female,Yes,SUV,Other Car
+44291,55,Female,Yes,SUV,Other Car
+38607,34,Female,Yes,SUV,Other Car
+46942,41,Male,Yes,Sedan,Other Car
+12748,38,Male,Yes,Sedan,Other Car
+-2799,43,Female,No,SUV,Other Car
+59526,30,Male,No,SUV,Other Car
+38610,35,Male,Yes,SUV,Other Car
+51974,37,Male,Yes,Sedan,Other Car
+29911,60,Female,Yes,Sedan,Other Car
+52486,60,Male,Yes,Sedan,Other Car
+33371,44,Male,Yes,SUV,Other Car
+90640,58,Male,Yes,Sports,Other Car
+51257,48,Male,Yes,Coupe,Other Car
+61162,38,Male,Yes,Sedan,Other Car
+31189,25,Male,Yes,Sedan,Other Car
+57183,33,Male,Yes,SUV,Other Car
+53553,39,Male,Yes,SUV,Other Car
+40037,40,Male,Yes,SUV,Other Car
+41995,50,Female,Yes,SUV,Other Car
+45458,27,Male,Yes,Sedan,Other Car
+625,40,Female,Yes,SUV,Other Car
+30620,53,Male,Yes,SUV,Other Car
+44945,17,Female,No,Coupe,Other Car
+32519,31,Male,Yes,Sports,Other Car
+42211,31,Female,Yes,Sedan,Other Car
+67794,31,Male,Yes,Sedan,Other Car
+29946,46,Male,Yes,Coupe,Other Car
+34421,36,Male,Yes,Coupe,Other Car
+47694,40,Female,Yes,Sedan,Other Car
+23906,42,Male,Yes,Sedan,Other Car
+52769,39,Male,Yes,SUV,Other Car
+73417,38,Male,Yes,Hatchback,Other Car
+42113,42,Male,Yes,SUV,Other Car
+81887,26,Female,No,SUV,Other Car
+38870,31,Male,Yes,Sedan,Other Car
+94259,46,Male,Yes,SUV,Other Car
+28275,33,Female,Yes,SUV,Other Car
+82184,50,Female,Yes,Sedan,Other Car
+85006,30,Male,Yes,Sedan,Other Car
+37206,48,Female,Yes,Hatchback,Other Car
+36630,59,Female,Yes,Coupe,Other Car
+34888,31,Male,Yes,Sedan,Other Car
+64239,23,Female,Yes,Sedan,Other Car
+83308,53,Male,Yes,SUV,Other Car
+31526,23,Female,Yes,SUV,Other Car
+23840,36,Male,Yes,Sedan,Other Car
+51772,47,Female,Yes,SUV,Other Car
+31295,27,Female,Yes,Sedan,Other Car
+40195,26,Male,Yes,SUV,Other Car
+59242,34,Male,Yes,Sedan,Other Car
+56373,53,Female,Yes,SUV,Other Car
+37557,43,Male,Yes,Sedan,Other Car
+49021,33,Female,Yes,Coupe,Other Car
+75901,47,Female,Yes,SUV,Other Car
+31547,43,Male,Yes,SUV,Other Car
+21065,36,Male,No,Coupe,Other Car
+31850,25,Female,Yes,Sedan,Other Car
+23852,34,Female,Yes,Sedan,Other Car
+38526,45,Female,Yes,Sedan,Other Car
+28287,53,Female,Yes,Coupe,Other Car
+37350,28,Female,No,Coupe,Other Car
+36657,32,Male,Yes,SUV,Other Car
+25890,54,Male,Yes,Hatchback,Other Car
+55887,37,Male,Yes,Hatchback,Other Car
+32341,29,Male,Yes,SUV,Other Car
+45311,52,Male,Yes,Sedan,Other Car
+49050,25,Male,Yes,Sedan,Other Car
+58853,40,Male,Yes,Sedan,Other Car
+48483,40,Male,Yes,Coupe,Other Car
+40667,36,Male,Yes,Hatchback,Other Car
+27369,29,Female,Yes,Sedan,Other Car
+34432,30,Male,Yes,Sedan,Other Car
+48658,34,Male,Yes,Coupe,Other Car
+40165,47,Female,Yes,Sedan,Other Car
+42936,29,Female,Yes,SUV,Other Car
+53125,34,Female,Yes,Sports,Other Car
+9376,35,Male,Yes,Coupe,Other Car
+34126,47,Female,Yes,Hatchback,Other Car
+23212,49,Male,No,SUV,Other Car
+40852,37,Female,Yes,Sedan,Other Car
+22798,25,Female,Yes,SUV,Other Car
+30745,25,Male,Yes,SUV,Other Car
+14453,22,Female,Yes,Sedan,Other Car
+14435,51,Female,Yes,Coupe,Other Car
+54616,29,Female,No,SUV,Other Car
+55173,42,Male,Yes,Sedan,Other Car
+40810,51,Female,Yes,Sedan,Other Car
+8899,35,Male,Yes,Coupe,Other Car
+52187,30,Female,Yes,Coupe,Other Car
+25278,38,Male,Yes,Coupe,Other Car
+50422,39,Female,Yes,Sedan,Other Car
+44191,46,Male,Yes,SUV,Other Car
+70854,35,Female,Yes,Sedan,Other Car
+44234,33,Female,Yes,SUV,Other Car
+41207,32,Male,Yes,SUV,Other Car
+72346,27,Male,Yes,SUV,Other Car
+61485,43,Male,Yes,Sedan,Other Car
+53771,36,Female,Yes,SUV,Other Car
+23293,28,Female,Yes,Sedan,Other Car
+40732,36,Male,Yes,Hatchback,Other Car
+48534,40,Female,Yes,Sedan,Other Car
+36110,32,Female,Yes,Sedan,Other Car
+70548,29,Female,Yes,Sedan,Other Car
+56678,35,Male,Yes,SUV,Other Car
+20925,14,Female,Yes,Coupe,Other Car
+22412,37,Male,Yes,Sedan,Other Car
+35667,37,Male,Yes,Coupe,Other Car
+30352,35,Male,Yes,SUV,Other Car
+40172,42,Male,Yes,Sports,Other Car
+33534,32,Male,Yes,Coupe,Other Car
+66000,35,Male,Yes,Coupe,Other Car
+61526,20,Male,Yes,Sedan,Other Car
+36215,26,Female,No,Sedan,Other Car
+38970,40,Female,Yes,Coupe,Other Car
+36196,56,Female,Yes,Sedan,Other Car
+36011,41,Female,Yes,Coupe,Other Car
+72629,47,Male,Yes,Sedan,Other Car
+70055,36,Male,Yes,Sedan,Other Car
+59170,50,Male,Yes,SUV,Other Car
+61979,45,Female,Yes,Sedan,Other Car
+79201,37,Male,Yes,SUV,Other Car
+61555,25,Female,Yes,Sedan,Other Car
+54364,23,Male,No,Sedan,Other Car
+51495,43,Female,Yes,SUV,Other Car
+56651,37,Male,Yes,Sports,Other Car
+22802,32,Male,Yes,Sedan,Other Car
+39664,31,Female,Yes,SUV,Other Car
+55174,32,Male,Yes,SUV,Other Car
+66268,35,Male,Yes,SUV,Other Car
+68907,51,Female,Yes,Coupe,Other Car
+57252,41,Male,Yes,SUV,Other Car
+71223,47,Female,Yes,Sedan,Other Car
+22919,41,Female,Yes,Sedan,Other Car
+30705,46,Female,Yes,SUV,Other Car
+73417,42,Male,Yes,SUV,Other Car
+94830,26,Female,Yes,Coupe,Other Car
+62110,40,Male,Yes,Coupe,Other Car
+47019,48,Male,Yes,Sedan,Other Car
+28837,35,Male,Yes,SUV,Other Car
+33336,40,Male,Yes,Sedan,Other Car
+36143,33,Male,Yes,Sedan,Other Car
+40598,41,Male,Yes,Sedan,Other Car
+42222,40,Male,Yes,SUV,Other Car
+37830,43,Male,Yes,SUV,Other Car
+39642,42,Female,Yes,SUV,Other Car
+41693,31,Male,Yes,SUV,Other Car
+62267,49,Female,Yes,Sedan,Other Car
+70233,40,Male,No,SUV,Other Car
+-2502,51,Female,Yes,SUV,Other Car
+26147,22,Male,Yes,SUV,Other Car
+66337,40,Male,Yes,SUV,Other Car
+66148,27,Female,Yes,Coupe,Other Car
+80337,36,Male,Yes,Coupe,Other Car
+11793,25,Male,Yes,Coupe,Other Car
+22983,46,Female,Yes,Sedan,Other Car
+45555,44,Female,Yes,Sedan,Other Car
+48757,36,Male,Yes,SUV,Other Car
+54252,42,Male,No,Sedan,Other Car
+82323,31,Female,Yes,SUV,Other Car
+22317,37,Female,Yes,SUV,Other Car
+10524,33,Male,Yes,Sedan,Other Car
+44297,32,Female,Yes,Coupe,Other Car
+49043,48,Male,Yes,SUV,Other Car
+30027,37,Female,Yes,Sedan,Other Car
+38470,41,Male,Yes,Sedan,Other Car
+45796,30,Female,Yes,SUV,Other Car
+36007,40,Female,Yes,SUV,Other Car
+63000,25,Female,Yes,Sedan,Other Car
+20798,37,Male,Yes,Sedan,Other Car
+27482,29,Female,Yes,SUV,Other Car
+58950,39,Male,Yes,Coupe,Other Car
+52606,41,Female,Yes,Sports,Other Car
+19820,21,Female,Yes,SUV,Other Car
+74596,33,Female,No,SUV,Other Car
+53746,28,Male,Yes,Sedan,Other Car
+27546,23,Male,Yes,SUV,Other Car
+49135,30,Female,Yes,Coupe,Other Car
+54283,41,Male,No,SUV,Other Car
+23463,37,Female,Yes,Sedan,Other Car
+25045,41,Female,Yes,SUV,Other Car
+56087,39,Female,Yes,Coupe,Other Car
+57309,34,Male,Yes,Coupe,Other Car
+70255,54,Male,No,Coupe,Other Car
+48057,36,Male,Yes,SUV,Other Car
+21691,40,Female,Yes,Sports,Other Car
+12019,33,Female,No,SUV,Other Car
+50285,35,Female,Yes,Sedan,Other Car
+78076,39,Male,Yes,SUV,Other Car
+41768,33,Male,Yes,SUV,Other Car
+66117,44,Male,Yes,Coupe,Other Car
+30299,34,Female,Yes,Sedan,Other Car
+31699,31,Female,Yes,Sedan,Other Car
+53051,34,Male,Yes,Sedan,Other Car
+98012,21,Female,Yes,SUV,Other Car
+47467,41,Male,Yes,Coupe,Other Car
+43910,34,Female,Yes,SUV,Other Car
+56658,44,Male,Yes,Sedan,Other Car
+34385,41,Female,Yes,Sedan,Other Car
+34932,40,Female,No,SUV,Other Car
+41294,27,Male,Yes,SUV,Other Car
+41357,34,Male,Yes,SUV,Other Car
+56851,49,Female,Yes,Sports,Other Car
+99832,30,Female,Yes,Sports,Other Car
+53227,51,Male,Yes,Sedan,Other Car
+6454,23,Male,Yes,SUV,Other Car
+35702,42,Male,Yes,SUV,Other Car
+44838,35,Male,Yes,Sedan,Other Car
+45424,23,Male,Yes,SUV,Other Car
+36098,37,Female,Yes,Sedan,Other Car
+53571,38,Male,Yes,SUV,Other Car
+14464,38,Male,Yes,Sports,Other Car
+67096,28,Female,No,SUV,Other Car
+17015,48,Female,Yes,Sports,Other Car
+49022,44,Female,Yes,SUV,Other Car
+39522,24,Female,Yes,Sports,Other Car
+60077,40,Female,Yes,SUV,Other Car
+82405,31,Female,Yes,Sedan,Other Car
+53529,31,Male,Yes,Sedan,Other Car
+-22857,34,Male,Yes,Sedan,Other Car
+62977,33,Male,Yes,SUV,Other Car
+50235,32,Female,Yes,Sedan,Other Car
+53420,34,Male,Yes,Sports,Other Car
+39140,45,Male,Yes,SUV,Other Car
+2253,36,Male,Yes,Sports,Other Car
+20080,39,Male,Yes,Sedan,Other Car
+63,41,Female,Yes,SUV,Other Car
+78251,46,Male,Yes,Sedan,Other Car
+18250,49,Female,Yes,Sedan,Other Car
+32658,44,Female,Yes,Coupe,Other Car
+32485,40,Male,Yes,Sedan,Other Car
+59408,40,Female,Yes,Hatchback,Other Car
+-12664,43,Male,Yes,Sedan,Other Car
+44649,28,Male,Yes,SUV,Other Car
+22604,19,Female,Yes,Coupe,Other Car
+-6388,38,Male,Yes,Coupe,Other Car
+44198,37,Male,Yes,Coupe,Other Car
+72843,22,Male,Yes,SUV,Other Car
+7924,38,Male,Yes,Sedan,Other Car
+53821,44,Female,Yes,Sedan,Other Car
+19261,38,Male,Yes,Sedan,Other Car
+22821,27,Female,Yes,SUV,Other Car
+-4509,42,Male,Yes,Coupe,Other Car
+21852,38,Male,Yes,SUV,Other Car
+43713,39,Female,Yes,Sedan,Other Car
+58139,40,Male,Yes,Sedan,Other Car
+34032,44,Female,Yes,Sports,Other Car
+51516,26,Male,Yes,Sedan,Other Car
+27038,57,Male,Yes,Sedan,Other Car
+51922,37,Female,Yes,Hatchback,Other Car
+41283,49,Male,Yes,Sedan,Other Car
+38776,32,Female,Yes,SUV,Other Car
+34738,45,Male,Yes,Sedan,Other Car
+33452,41,Female,Yes,SUV,Other Car
+37650,44,Female,Yes,SUV,Other Car
+17304,38,Male,Yes,Sports,Other Car
+41205,35,Female,Yes,Sedan,Other Car
+48797,37,Male,Yes,SUV,Other Car
+70481,57,Male,Yes,SUV,Other Car
+27469,29,Male,Yes,SUV,Other Car
+31795,33,Female,Yes,Coupe,Other Car
+56065,40,Male,Yes,Coupe,Other Car
+38574,38,Female,Yes,SUV,Other Car
+-12307,30,Male,Yes,Sports,Other Car
+18366,29,Female,Yes,SUV,Other Car
+42851,31,Male,Yes,Hatchback,Other Car
+41323,27,Female,Yes,Sedan,Other Car
+39708,40,Male,No,SUV,Other Car
+54378,26,Male,Yes,Sedan,Other Car
+64972,28,Female,No,SUV,Other Car
+30538,39,Male,Yes,SUV,Other Car
+50668,23,Female,Yes,Sports,Other Car
+47538,39,Female,Yes,SUV,Other Car
+42555,26,Female,Yes,SUV,Other Car
+38347,28,Male,Yes,SUV,Other Car
+49622,41,Male,Yes,Coupe,Other Car
+18535,32,Male,Yes,Coupe,Other Car
+84181,40,Male,No,Sedan,Other Car
+42022,40,Female,Yes,Sedan,Other Car
+59102,36,Male,Yes,Sedan,Other Car
+34976,30,Female,Yes,Sedan,Other Car
+30135,40,Female,Yes,Sedan,Other Car
+76675,31,Male,Yes,Coupe,Other Car
+12989,35,Female,No,Sedan,Other Car
+52016,30,Male,No,SUV,Other Car
+67298,39,Female,Yes,SUV,Other Car
+75879,35,Male,No,Hatchback,Other Car
+52840,40,Female,No,Sedan,Other Car
+17575,32,Female,Yes,Sedan,Other Car
+76801,45,Female,No,Coupe,Other Car
+15571,36,Female,Yes,Sedan,Other Car
+54274,37,Female,Yes,Coupe,Other Car
+53317,34,Female,Yes,Coupe,Other Car
+37619,37,Male,No,Coupe,Other Car
+48560,46,Male,Yes,Sedan,Other Car
+51513,48,Female,Yes,SUV,Other Car
+16760,49,Male,Yes,Sedan,Other Car
+76382,29,Male,Yes,Coupe,Other Car
+46885,38,Male,Yes,Sedan,Other Car
+58566,44,Female,Yes,Sedan,Other Car
+27026,30,Female,Yes,Sedan,Other Car
+55778,47,Female,Yes,Sedan,Other Car
+44874,38,Male,Yes,Sedan,Other Car
+34843,48,Male,Yes,Sedan,Other Car
+37988,41,Female,Yes,SUV,Other Car
+49717,42,Male,Yes,Sedan,Other Car
+58795,36,Male,Yes,SUV,Other Car
+49794,25,Male,Yes,SUV,Other Car
+31420,33,Female,Yes,Sedan,Other Car
+23467,30,Male,Yes,Sedan,Other Car
+38541,35,Female,Yes,SUV,Other Car
+30160,27,Male,Yes,Sedan,Other Car
+25076,14,Female,Yes,Hatchback,Other Car
+33405,38,Female,Yes,Coupe,Other Car
+11097,43,Male,Yes,Hatchback,Other Car
+64117,24,Male,Yes,Coupe,Other Car
+65732,43,Male,Yes,SUV,Other Car
+14303,37,Male,Yes,Sedan,Other Car
+25789,35,Female,Yes,Sedan,Other Car
+78109,42,Female,Yes,SUV,Other Car
+47202,26,Female,Yes,Coupe,Sports
+44537,40,Male,Yes,Sports,Sports
+33171,41,Male,Yes,Coupe,Sports
+24600,35,Male,Yes,Coupe,Sports
+52932,27,Female,Yes,Sports,Sports
+37638,23,Male,No,Coupe,Sports
+30128,61,Male,Yes,Sedan,Sports
+46720,44,Male,Yes,Coupe,Sports
+42177,25,Female,Yes,Sedan,Sports
+29755,22,Male,Yes,Coupe,Sports
+44026,12,Female,Yes,Coupe,Sports
+42168,40,Female,Yes,Sports,Sports
+84789,34,Female,Yes,Sports,Sports
+72377,45,Female,Yes,Sports,Sports
+49575,51,Female,Yes,Sports,Sports
+44216,40,Male,Yes,Coupe,Sports
+51931,33,Male,Yes,Sports,Sports
+61090,50,Female,Yes,Coupe,Sports
+28318,36,Male,Yes,Sports,Sports
+42213,29,Female,Yes,Sports,Sports
+32033,33,Female,Yes,Coupe,Sports
+40256,40,Female,Yes,Sedan,Sports
+48607,33,Male,Yes,Sports,Sports
+62874,47,Female,Yes,Sedan,Sports
+26111,33,Female,Yes,Coupe,Sports
+34048,60,Female,Yes,Coupe,Sports
+47826,18,Female,Yes,Coupe,Sports
+53622,44,Female,Yes,Sports,Sports
+45706,11,Male,Yes,Sedan,Sports
+61298,50,Male,Yes,Sports,Sports
+40474,50,Female,Yes,Sports,Sports
+44791,32,Female,Yes,Coupe,Sports
+42169,29,Male,Yes,Coupe,Sports
+57249,49,Male,Yes,Sports,Sports
+23399,33,Female,Yes,Sedan,Sports
+59127,45,Male,Yes,Sports,Sports
+59891,32,Male,Yes,Sports,Sports
+27743,24,Female,Yes,Sedan,Sports
+40927,33,Female,Yes,Sports,Sports
+39226,56,Female,Yes,Sports,Sports
+56223,47,Male,Yes,Sports,Sports
+49437,33,Female,Yes,Coupe,Sports
+26595,29,Male,Yes,Coupe,Sports
+53292,30,Female,Yes,Coupe,Sports
+37911,35,Male,Yes,Coupe,Sports
+44855,37,Female,Yes,Sedan,Sports
+37220,37,Female,Yes,Sports,Sports
+54901,33,Female,Yes,Coupe,Sports
+37204,36,Female,Yes,Coupe,Sports
+45298,35,Female,Yes,Sedan,Sports
+40509,25,Female,Yes,Sports,Sports
+68487,36,Male,Yes,Sedan,Sports
+66102,36,Male,Yes,Coupe,Sports
+57785,41,Female,Yes,Sports,Sports
+46622,12,Male,Yes,Coupe,Sports
+45060,54,Female,Yes,Sports,Sports
+42901,16,Female,Yes,Coupe,Sports
+36072,33,Male,Yes,Sports,Sports
+50993,33,Female,Yes,Coupe,Sports
+51447,25,Male,Yes,Coupe,Sports
+51201,39,Female,Yes,Sports,Sports
+49223,41,Female,Yes,Sports,Sports
+51846,43,Male,Yes,Sports,Sports
+39019,33,Female,Yes,Coupe,Sports
+42581,39,Male,Yes,Sports,Sports
+27828,7,Female,Yes,Sedan,Sports
+63497,28,Female,Yes,Sports,Sports
+11781,62,Female,Yes,Coupe,Sports
+61580,35,Male,Yes,Coupe,Sports
+32227,41,Male,Yes,Coupe,Sports
+30645,21,Female,Yes,Sedan,Sports
+57343,66,Female,Yes,Sports,Sports
+65372,28,Male,Yes,Coupe,Sports
+45988,38,Male,Yes,Sedan,Sports
+39990,42,Male,Yes,Sedan,Sports
+50677,46,Female,Yes,Sports,Sports
+45357,63,Female,Yes,Sports,Sports
+25753,46,Male,Yes,Coupe,Sports
+31878,32,Female,Yes,Coupe,Sports
+66499,16,Female,Yes,Sports,Sports
+52808,19,Female,Yes,Coupe,Sports
+28308,34,Female,Yes,Sports,Sports
+35770,34,Female,Yes,Sedan,Sports
+40945,38,Male,Yes,Coupe,Sports
+42406,27,Female,Yes,Sports,Sports
+57826,29,Female,Yes,Sedan,Sports
+27443,28,Female,Yes,Sports,Sports
+43474,37,Female,Yes,Sports,Sports
+39728,41,Female,Yes,Sports,Sports
+49426,14,Female,Yes,Sedan,Sports
+31106,34,Male,No,Sports,Sports
+49694,49,Male,Yes,Sports,Sports
+67009,26,Male,Yes,Sports,Sports
+45391,18,Female,Yes,Sedan,Sports
+16945,35,Male,Yes,Sedan,Sports
+45315,27,Male,Yes,Sedan,Sports
+68363,47,Female,Yes,Sports,Sports
+39819,22,Female,Yes,Sports,Sports
+54933,48,Male,Yes,Coupe,Sports
+52493,46,Male,Yes,Sports,Sports
+57922,13,Female,Yes,Coupe,Sports
+58157,57,Male,Yes,Sedan,Sports
+36355,25,Female,Yes,Coupe,Sports
+25200,35,Male,Yes,Coupe,Sports
+57889,39,Male,Yes,Coupe,Sports
+41123,38,Male,Yes,Coupe,Sports
+29609,31,Female,Yes,Coupe,Sports
+49536,35,Female,Yes,Sports,Sports
+41221,34,Female,Yes,Sports,Sports
+28691,49,Male,Yes,Coupe,Sports
+48791,35,Female,Yes,Sports,Sports
+27030,47,Female,Yes,Coupe,Sports
+11343,25,Male,Yes,Coupe,Sports
+70121,31,Female,Yes,Sports,Sports
+23397,25,Female,Yes,Sports,Sports
+49877,33,Female,Yes,Sports,Sports
+62556,38,Female,Yes,Sports,Sports
+18597,27,Male,Yes,Sports,Sports
+49842,47,Male,Yes,Coupe,Sports
+31071,25,Female,Yes,Coupe,Sports
+40486,24,Male,Yes,Sports,Sports
+32489,37,Male,No,Sports,Sports
+72047,40,Female,Yes,Sedan,Sports
+43261,45,Male,Yes,Coupe,Sports
+31144,41,Female,Yes,Sports,Sports
+42213,45,Female,Yes,Coupe,Sports
+60896,37,Female,Yes,Coupe,Sports
+46618,18,Male,Yes,Sedan,Sports
+15019,39,Female,Yes,Sports,Sports
+37522,14,Female,Yes,Sports,Sports
+48578,39,Female,Yes,Sports,Sports
+57607,39,Female,No,Sports,Sports
+57460,24,Female,Yes,Sedan,Sports
+38953,16,Male,Yes,Coupe,Sports
+28848,47,Female,Yes,Sports,Sports
+49038,34,Female,Yes,Coupe,Sports
+50104,33,Male,Yes,Coupe,Sports
+34181,66,Male,Yes,Coupe,Sports
+60897,24,Female,Yes,Coupe,Sports
+43711,38,Female,Yes,Coupe,Sports
+29715,39,Female,Yes,Sports,Sports
+58558,32,Male,Yes,Sports,Sports
+38969,24,Female,Yes,Coupe,Sports
+35273,52,Female,Yes,Sports,Sports
+38885,53,Female,Yes,Sports,Sports
+25128,30,Female,Yes,Sports,Sports
+43034,40,Female,Yes,Coupe,Sports
+47207,0,Female,Yes,Coupe,Sports
+42619,51,Female,Yes,Coupe,Sports
+29991,40,Female,Yes,Sedan,Sports
+56059,38,Male,Yes,Coupe,Sports
+19185,27,Female,Yes,Sports,Sports
+41813,30,Female,Yes,Sports,Sports
+16227,31,Female,Yes,Sports,Sports
+52010,43,Female,Yes,Coupe,Sports
+33989,39,Male,Yes,Coupe,Sports
+47782,28,Male,Yes,Coupe,Sports
+36711,44,Male,Yes,Coupe,Sports
+19361,56,Female,Yes,Sedan,Sports
+42155,61,Female,Yes,Sports,Sports
+41876,48,Female,Yes,Sedan,Sports
+47757,38,Female,Yes,Coupe,Sports
+32819,36,Female,Yes,Coupe,Sports
+45082,11,Female,Yes,Sports,Sports
+52352,47,Female,Yes,Sedan,Sports
+33014,49,Female,Yes,Coupe,Sports
+46795,35,Male,Yes,Sedan,Sports
+49801,50,Female,Yes,Sedan,Sports
+63825,24,Male,Yes,Sedan,Sports
+33708,34,Male,Yes,Coupe,Sports
+58552,34,Female,Yes,Sedan,Sports
+57619,43,Male,Yes,Sports,Sports
+75284,15,Female,Yes,Sports,Sports
+30148,38,Female,Yes,Coupe,Sports
+54631,33,Female,Yes,Coupe,Sports
+38462,17,Male,Yes,Sports,Sports
+73328,44,Male,Yes,Coupe,Sports
+32856,33,Male,Yes,Coupe,Sports
+62984,13,Female,Yes,Coupe,Sports
+26760,30,Female,Yes,Sports,Sports
+17224,52,Male,Yes,Sedan,Sports
+44022,46,Male,Yes,Coupe,Sports
+29944,43,Male,No,Coupe,Sports
+53524,49,Male,Yes,Sports,Sports
+34598,34,Female,Yes,Coupe,Sports
+24398,48,Male,Yes,Sedan,Sports
+24318,31,Female,Yes,Coupe,Sports
+48051,44,Female,Yes,Sports,Sports
+41445,41,Female,Yes,Sports,Sports
+48978,61,Male,Yes,Sports,Sports
+43061,26,Male,Yes,Sedan,Sports
+36522,31,Male,Yes,Sports,Sports
+39137,32,Male,No,Coupe,Sports
+58294,24,Male,Yes,Sports,Sports
+36190,24,Female,No,Sports,Sports
+60473,26,Female,Yes,Coupe,Sports
+30018,34,Female,No,Sports,Sports
+52614,36,Female,Yes,Coupe,Sports
+64966,23,Male,Yes,Coupe,Sports
+49091,27,Female,Yes,Coupe,Sports
+60138,40,Male,Yes,Sedan,Sports
+33430,45,Female,Yes,Sports,Sports
+37229,49,Male,Yes,Sports,Sports
+43819,53,Female,Yes,Coupe,Sports
+37891,29,Male,Yes,Coupe,Sports
+33318,30,Female,No,Sports,Sports
+36940,36,Female,Yes,Sports,Sports
+50084,46,Female,Yes,Sports,Sports
+77893,72,Male,Yes,Sedan,Sports
+46525,38,Male,Yes,Sports,Sports
+53322,19,Female,Yes,Sedan,Sports
+60914,32,Male,Yes,Coupe,Sports
+16976,23,Female,Yes,Sports,Sports
+72623,32,Male,Yes,Coupe,Sports
+28156,40,Female,Yes,Sports,Sports
+59117,31,Female,Yes,Sports,Sports
+66331,32,Male,Yes,Coupe,Sports
+37923,40,Female,Yes,Sports,Sports
+55251,36,Female,Yes,Coupe,Sports
+47184,26,Female,Yes,Sports,Sports
+61830,42,Male,Yes,Sedan,Sports
+37699,39,Female,Yes,Sports,Sports
+25652,23,Female,Yes,Sports,Sports
+33757,50,Female,Yes,Sedan,Sports
+40098,24,Female,Yes,Sports,Sports
+46502,33,Male,Yes,Coupe,Sports
+23183,48,Female,Yes,Sports,Sports
+63009,27,Female,Yes,Sedan,Sports
+44173,38,Female,Yes,Sedan,Sports
+34544,26,Male,Yes,Coupe,Sports
+86971,36,Male,No,Sports,Sports
+37272,43,Female,Yes,Sports,Sports
+45115,32,Male,Yes,Sports,Sports
+35178,18,Female,Yes,Sports,Sports
+54840,32,Male,Yes,Sports,Sports
+47882,46,Male,Yes,Sports,Sports
+46136,49,Female,Yes,Coupe,Sports
+4759,28,Female,Yes,Coupe,Sports
+65639,51,Female,No,Sports,Sports
+18494,53,Female,Yes,Sports,Sports
+36131,45,Female,Yes,Coupe,Sports
+46829,44,Female,Yes,Sedan,Sports
+53121,18,Female,Yes,Sports,Sports
+17914,43,Male,Yes,Sedan,Sports
+30024,32,Male,Yes,Coupe,Sports
+38227,46,Female,Yes,Sedan,Sports
+34361,18,Male,Yes,Coupe,Sports
+50755,37,Male,Yes,Sports,Sports
+36632,47,Male,Yes,Sports,Sports
+36308,31,Female,Yes,Sports,Sports
+39829,37,Male,Yes,Coupe,Sports
+47595,34,Female,Yes,Coupe,Sports
+57012,45,Female,Yes,Coupe,Sports
+63792,40,Male,Yes,Sports,Sports
+50903,15,Female,Yes,Sedan,Sports
+43134,33,Female,Yes,Coupe,Sports
+55294,33,Female,Yes,Coupe,Sports
+56447,35,Female,Yes,Sports,Sports
+72160,45,Female,No,Coupe,Sports
+58809,17,Male,Yes,Sports,Sports
+50743,52,Female,Yes,Sports,Sports
+47882,48,Male,Yes,Sports,Sports
+53221,30,Female,Yes,Sports,Sports
+45170,48,Female,Yes,Sports,Sports
+36217,21,Female,Yes,Sports,Sports
+37899,29,Male,Yes,Sedan,Sports
+27513,53,Female,Yes,Sports,Sports
+20372,43,Male,Yes,Coupe,Sports
+50635,20,Male,Yes,Coupe,Sports
+36920,37,Female,Yes,Sedan,Sports
+52592,17,Male,Yes,Sports,Sports
+45051,35,Female,Yes,Sports,Sports
+62189,47,Male,Yes,Coupe,Sports
+63537,39,Male,Yes,Coupe,Sports
+40332,44,Female,Yes,Sedan,Sports
+28901,39,Female,Yes,Sports,Sports
+34685,33,Female,Yes,Sports,Sports
+33112,27,Female,Yes,Coupe,Sports
+16008,34,Male,Yes,Sports,Sports
+40285,54,Female,No,Sports,Sports
